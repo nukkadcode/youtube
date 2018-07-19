@@ -1,4 +1,3 @@
-design pattern - abstract class and interface.
 /* package codechef; // don't place package name! */
 
 import java.util.*;
